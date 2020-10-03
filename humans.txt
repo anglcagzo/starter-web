@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dev hatdog@jolly.com @hakdog
 
 # THANKS
 
